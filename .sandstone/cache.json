@@ -1,0 +1,27 @@
+{
+  "C:\\personal\\git\\tutorials\\mc-datapacks\\sandstone\\warpante\\src": {
+    "files": {
+      "pack.mcmeta": "71f3ea567eeee3edbbbff01184db455e",
+      "data\\warpante\\functions\\eachitemframe.mcfunction": "18666d7df04a5af889d1f2f0cc8095e3",
+      "data\\warpante\\functions\\warper.mcfunction": "a76699c967ce4b1d84b2d97601403660",
+      "data\\warpante\\functions\\warper\\execute_as.mcfunction": "b7540c398591a8b8b0ec09032a5f511d",
+      "data\\warpante\\functions\\__init__.mcfunction": "f76f4b759b3361e430a9ad07b19522aa",
+      "data\\minecraft\\tags\\functions\\tick.json": "fcd816375512e7f59fea457ba890f704",
+      "data\\minecraft\\tags\\functions\\load.json": "bf51a6f4014741c0aff5aef73a558e23"
+    },
+    "resultFolder": "C:\\Users\\DanieleScarinci\\AppData\\Roaming\\.minecraft\\saves\\testpacchi\\datapacks\\warpante"
+  },
+  "C:\\personal\\git\\warpearl\\src": {
+    "files": {
+      "pack.mcmeta": "6070c9d22d91f48c569698a0f6faa4cc",
+      "data\\warpearl\\functions\\eachitemframe.mcfunction": "1181322eea8e4e806933e590a7efd02d",
+      "data\\warpearl\\functions\\warper.mcfunction": "d9673f18a84e5724206fdb3e04cc17cb",
+      "data\\warpearl\\functions\\warper\\execute_as.mcfunction": "321056d27f0af01d9aea152e88f3450b",
+      "data\\warpearl\\functions\\warper\\execute_as\\execute_as.mcfunction": "c9cd61ee680c37d7d6360d3bf8b7184f",
+      "data\\warpearl\\functions\\__init__.mcfunction": "83009e00daba5b856700facb891eb171",
+      "data\\minecraft\\tags\\functions\\tick.json": "68b72b120aed595a7f6d68d7d18ad905",
+      "data\\minecraft\\tags\\functions\\load.json": "2d579eb81c4e52802c53ce29f1d4a712"
+    },
+    "resultFolder": "dist\\warpearl"
+  }
+}

@@ -1,0 +1,2 @@
+execute as @e[tag=selectedpearl] run data modify storage warpearl name set from entity @s Item.tag.display.Name
+execute as @s store success score @s warpselector run data modify storage warpearl name set from entity @s Item.tag.display.Name

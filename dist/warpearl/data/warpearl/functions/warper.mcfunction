@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:ender_pearl] if data entity @s Item.tag.display.Name run function warpearl:warper/execute_as

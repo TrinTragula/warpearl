@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:ender_pearl] run function warpante:warper/execute_as

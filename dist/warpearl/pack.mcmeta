@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": [
+      "Simple warps using ",
+      {
+        "text": "named",
+        "color": "gold"
+      },
+      " ender pearls."
+    ]
+  }
+}
